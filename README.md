@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <!--### Hi there 👋, my name is Arturs
 #### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/ui-ux-concept_416743-17.webp)
-<img src="./ui-ux-concept_416743-17.webp"/> -->
+<img src="https://webitexperts.com/images/banner1_1.gif"/> -->
 
 <html>
 <head>
@@ -27,11 +27,12 @@ You can click the Preview link to take a look at your changes.
 <body>
 <h2 class="w3-center"></h2>
 
-<div class="w3-content w3-section" style="max-width:500px">
-  <img class="mySlides" src="https://img.freepik.com/premium-photo/web-development-application-design-coding-programming-concept_73903-462.jpg?w=740" style="width:100%">
-  <img class="mySlides" src="https://img.freepik.com/free-photo/web-design-concepts-with-blurred-background_1134-82.jpg?w=740&t=st=1687330071~exp=1687330671~hmac=a0338207d758e87ddcd7795e92bd4bf6e00013a7b59ed981549d806b2aae69e6" style="width:100%">
-  <img class="mySlides" src="https://img.freepik.com/premium-photo/programming-background-with-person-working-with-codes-computer_23-2150010150.jpg?w=740" style="width:100%">
-  <img class="mySlides" src="https://img.freepik.com/premium-photo/close-up-laptop-gray-desktop-with-creative-glowing-big-data-glitch-blurry-background-unique-design-abstract-digital-pixel-noise-glitch-error-video-damage-double-exposure_670147-9887.jpg?w=740" style="width:100%">
+<div class="w3-content w3-section" style="max-width:500px;">
+ <!-- <img class="mySlides" src="https://img.freepik.com/premium-photo/web-development-application-design-coding-programming-concept_73903-462.jpg?w=740" style="width:100%"> -->
+
+<!--  <img class="mySlides" src="https://img.freepik.com/free-photo/web-design-concepts-with-blurred-background_1134-82.jpg?w=740&t=st=1687330071~exp=1687330671~hmac=a0338207d758e87ddcd7795e92bd4bf6e00013a7b59ed981549d806b2aae69e6" style="width:100%"> -->
+  <!--<img class="mySlides" src="https://img.freepik.com/premium-photo/programming-background-with-person-working-with-codes-computer_23-2150010150.jpg?w=740" style="width:50%">
+  <img class="mySlides" src="https://img.freepik.com/premium-photo/close-up-laptop-gray-desktop-with-creative-glowing-big-data-glitch-blurry-background-unique-design-abstract-digital-pixel-noise-glitch-error-video-damage-double-exposure_670147-9887.jpg?w=740" style="width:50%"> -->
    <img class="mySlides" src="https://img.freepik.com/premium-vector/web-development-coding-programming-responsive-layout-internet-site-app-devices-creation-digital-software-mobile-platforms-computer-code-phone-concept-banner_276941-170.jpg" style="width:100%">
 </div>
 <!--
