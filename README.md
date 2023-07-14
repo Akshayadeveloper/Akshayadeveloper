@@ -99,7 +99,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 - 🌱 I’m currently learning web developement with javascript and python in Harvard University 
 - 💞️ I’m looking to collaborate on Microsoft and Boeing 
 - 📫 How to reach me akshayaselvakumar532@gmail.com
-- 🌱 I'm currently growing my [Youtube Channel](https://www.youtube.com/)
+- 🌱 I'm currently growing my [Youtube Channel](https://www.youtube.com/@AkshayaDeveloper)
 - 📚 I'm constantly learning new skills and _striving for progress_
 - 🏆 Goal: Be the person like Elan musk.
 - ⚡ Motto: _Keep striving for progress, not perfection_
@@ -150,5 +150,8 @@ alt="JavaScript Closures Tutorial" width="240" height="180" /></a> -->
 <!--
 [html-course]: https://youtu.be/mJgBOIoGihA -->
 [linkedin]: https://linkedin.com/in/akshaya-s-5b3461278
-[youtube]: https://www.youtube.com/
+[youtube]: https://www.youtube.com/@AkshayaDeveloper
+[Codepen]: https://codepen.io/Akshaya-developer
+[Research Article]: https://akshaya-frontend-developer.blogspot.com
+
 
