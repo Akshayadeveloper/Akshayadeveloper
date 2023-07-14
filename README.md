@@ -117,7 +117,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 ### 📬 Connect with me:
 [<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Akshaya Developler | Youtube" height="30" width="40" />][youtube]
 [<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Akshaya developer | LinkedIn" height="30" width="40" />][linkedin]
-[<img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8pqIbb0mHoVRuZrJJZhkNQrRALn9C9w8MLg&usqp=CAU" alt="Akshaya developer | Codepen" height="30" width="40" />][Codepen]
+[<img align="left" src="https://seeklogo.com/images/C/codepen-logo-FDEB3664F1-seeklogo.com.png" alt="Akshaya developer | Codepen" height="30" width="40" />][Codepen]
 
 [<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogspot.svg" alt="Akshaya developer | blogspot" height="30" width="40" />][Research Article]
 
