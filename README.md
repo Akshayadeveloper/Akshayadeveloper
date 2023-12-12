@@ -118,8 +118,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 [<img align="left" src="https://www.logo.wine/a/logo/YouTube/YouTube-Logo.wine.svg" alt="Akshaya Developler | Youtube" height="30" width="40" />][youtube]
 
-[<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Akshaya Developler | Youtube" height="30" width="40" />][youtube]
-[<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Akshaya developer | LinkedIn" height="30" width="40" />][linkedin]
+[<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" alt="Akshaya developer | LinkedIn" height="30" width="40" />][linkedin]
 [<img align="left" src="https://seeklogo.com/images/C/codepen-logo-FDEB3664F1-seeklogo.com.png" alt="Akshaya developer | Codepen" height="30" width="40" />][Codepen]
 
 [<img align="left" src="https://img.freepik.com/premium-vector/3d-paper-document-with-magnifying-glass-isolated_169241-6008.jpg?w=740" alt="Akshaya developer | blogspot" height="30" width="40" />][Research Article]
