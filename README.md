@@ -93,7 +93,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 ### Hello and Welcome 👋, I'm Akshaya 
 
 ### I'm a Developer, YouTuber, Mentor, Blogger and Content Creator
-- 👨🏽‍🎓 I enjoy creating responsiv websites and teaching coding skills as well as helping students & fellow developers
+- 👨🏽‍🎓 I enjoy creating responsive websites and teaching coding skills as well as helping students & fellow developers
 - 👋 Hi, I’m @Akshayadeveloper
 - 👀 I’m interested in web developing and front end developing. 
 - 🌱 I’m currently learning web developement with javascript and python in Harvard University 
