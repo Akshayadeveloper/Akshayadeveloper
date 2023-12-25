@@ -116,7 +116,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ### 📬 Connect with me:
 
-[<img align="left" src="https://img.freepik.com/free-vector/subscription-button-with-bell-icon-notification_1017-43364.jpg?w=740&t=st=1703503135~exp=1703503735~hmac=7d53d6ab714c4891decc20b0fbfb008deb4ac4c0c156d6111bd01f51eb63017d" alt="Akshaya Developler | Youtube" height="40" width="40" />][youtube]
+[<img align="left" src="https://img.freepik.com/premium-photo/red-play-icon-button-white-background-social-media-sign-concept-3d-illustration-rendering_10307-1586.jpg?w=740" alt="Akshaya Developler | Youtube" height="30" width="40" />][youtube]
 
 [<img align="left" src="https://img.freepik.com/premium-photo/chonburi-thailand-jun-03-2021-close-up-linkedin-logo-icon-white-background-american-business-employmentoriented-online-service-via-website-mobile-app-3d-illustration-rendering_10307-2033.jpg?w=740" alt="Akshaya developer | LinkedIn" height="30" width="40" />][linkedin]
 
