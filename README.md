@@ -116,7 +116,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ### 📬 Connect with me:
 
-[<img align="left" src="https://www.logo.wine/a/logo/YouTube/YouTube-Logo.wine.svg" alt="Akshaya Developler | Youtube" height="30" width="40" />][youtube]
+[<img align="left" src="https://img.freepik.com/premium-photo/youtube-application-3d-social-media-icons-logo-3d-rendering_41204-19698.jpg?w=740" alt="Akshaya Developler | Youtube" height="30" width="40" />][youtube]
 
 [<img align="left" src="https://download.logo.wine/logo/LinkedIn/LinkedIn-Logo.wine.png" alt="Akshaya developer | LinkedIn" height="30" width="40" />][linkedin]
 
