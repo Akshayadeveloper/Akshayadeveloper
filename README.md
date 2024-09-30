@@ -105,7 +105,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 - ⚡ Motto: _Keep striving for progress, not perfection_
 
 ### 💻 Useful Links
-- 🤖 [ ChatGPT Artificial Intelligence Research Article ](https://akshaya-frontend-developer.blogspot.com/2023/05/impact-of-openaichatgptin-education-and.html ) best place for AI researcher.
+- 🤖 [ ChatGPT Artificial Intelligence Research Article ](https://akshayadeveloper.blogspot.com/2023/05/impact-of-openaichatgptin-education-and.html ) best place for AI researcher.
 
 <!--
 ### 📺 Latest Youtube Videos -->
@@ -164,6 +164,6 @@ alt="JavaScript Closures Tutorial" width="240" height="180" /></a> -->
 [linkedin]: https://linkedin.com/in/akshaya-s-5b3461278
 [youtube]: https://www.youtube.com/@AkshayaDeveloper
 [Codepen]: https://codepen.io/Akshaya-developer
-[Research Article]: https://akshaya-frontend-developer.blogspot.com
+[Research Article]: https://akshayadeveloper.blogspot.com
 
 
