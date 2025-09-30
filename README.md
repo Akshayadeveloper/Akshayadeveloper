@@ -44,7 +44,7 @@
 - 🌐 [Portfolio](https://www.akshayaselvakumar.com)
 - 💼 [LinkedIn](https://linkedin.com/in/akshaya-s-5b3461278)
 - 🏢 [VORYX](https://voryx.akshayaselvakumar.org)
-- 📷 [Instagram](https://www.instagram.com/akshaya_developer) <!-- Add if you want -->
+- 📷 [Instagram](https://www.instagram.com/voryx.official/) <!-- Add if you want -->
 - 🎥 [YouTube Channel](https://www.youtube.com/@Akshayadeveloper) <!-- Add if you want -->
 - ✍️ [Blog](https://akshayadeveloper.blogspot.com/) <!-- Add if you want -->
 - 📫 Email: akshayaselvakumar532@gmail.com
