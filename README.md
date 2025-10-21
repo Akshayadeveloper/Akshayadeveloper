@@ -34,8 +34,8 @@
   _Brand website for VORYX, my solo-founded venture_
 - [Photo Selling Platform](https://github.com/Akshayadeveloper/Photo-selling)  
   _A creative platform for photographers and artists_
-- [WilliamEstFanUniverse](https://github.com/Akshayadeveloper/WilliamEstFanUniverse)  
-  _A fan universe project for creative expression_
+- [Immutadeep](https://github.com/Akshayadeveloper/immutadeep)  
+  _A one stop Solution to all Software, Full-Stack Developer problems in project for creative simple yet powerful solution_
 
 ---
 
