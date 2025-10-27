@@ -11,7 +11,7 @@
 - 🧑‍💻 **Full-Stack Developer:** HTML, CSS, JavaScript, Python, React, Node.js & more  
 - 🎨 **Artist & Photographer:** Blending creativity with technology  
 - 🎥 **YouTuber** and **Author:** Sharing knowledge, career guidance, and inspiration  
-- 🌱 **Lifelong Learner:** Currently learning advanced web dev with JavaScript & Python (Harvard University)  
+- 🌱 **Lifelong Learner:** Currently developing new advanced web dev with JavaScript & Python SAAS App/Website by knowledge cultivated in (Harvard University)  
 - 🌐 **Multilingual:** Communicating across cultures, connecting global communities  
 - 💡 **Career Guidance Mentor:** Empowering students & professionals
 
