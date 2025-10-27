@@ -34,7 +34,7 @@
   _Brand website for VORYX, my solo-founded venture_
 - [Photo Selling Platform](https://github.com/Akshayadeveloper/Photo-selling)  
   _A creative platform for photographers and artists_
-- [WilliamEstFanUniverse](https://github.com/Akshayadeveloper/WilliamEstFanUniverse)  
+- [Immutadeep](https://github.com/Akshayadeveloper/immutadeep)  
   _A fan universe project for creative expression_
 
 ---
@@ -42,7 +42,7 @@
 ## 📬 Connect With Me
 
 - 🌐 [Portfolio](https://www.akshayaselvakumar.com)
-- 💼 [LinkedIn](https://linkedin.com/in/akshaya-s-5b3461278)
+- 💼 [LinkedIn](https://linkedin.com/in/akshaya-selvakumar-5b3461278)
 - 🏢 [VORYX](https://voryx.akshayaselvakumar.org)
 - 📷 [Instagram](https://www.instagram.com/voryx.official/) <!-- Add if you want -->
 - 🎥 [YouTube Channel](https://www.youtube.com/@Akshayadeveloper) <!-- Add if you want -->
