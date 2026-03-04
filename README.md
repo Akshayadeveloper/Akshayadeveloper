@@ -42,12 +42,13 @@
 ## 📬 Connect With Me
 
 - 🌐 [Portfolio](https://www.akshayaselvakumar.com)
-- 💼 [LinkedIn](https://linkedin.com/in/akshaya-selvakumar-5b3461278)
+- 💼 [LinkedIn](https://www.linkedin.com/in/akshaya-voryx-ceo/)
 - 🏢 [VORYX](https://voryx.akshayaselvakumar.org)
 - 📷 [Instagram](https://www.instagram.com/voryx.official/) <!-- Add if you want -->
 - 🎥 [YouTube Channel](https://www.youtube.com/@Akshayadeveloper) <!-- Add if you want -->
-- ✍️ [Blog](https://akshayadeveloper.blogspot.com/) <!-- Add if you want -->
-- 📫 Email: akshayaselvakumar532@gmail.com
+- ✍️ [Blog](https://akshayaselvakumarceo.blogspot.com/) <!-- Add if you want -->
+- 📫 Email: ceo@akshayaselvakumar.com
+- 🔍 Browse: "Akshaya Voryx CEO" to verify my $20B Corridor 
 
 ---
 
