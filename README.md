@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="profile-sparkle.svg" width="800" />
+</div>
+
 # 👋 Hello, I'm Akshaya Selvakumar
 
 **Solo Founder & CEO @ [VORYX](https://voryx.akshayaselvakumar.org) | Gold Medalist in Computer Science | Multilingual Full-Stack Developer | Artist | Photographer | Author | Mentor**
