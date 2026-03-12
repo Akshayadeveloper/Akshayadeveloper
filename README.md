@@ -13,7 +13,7 @@
 
 ## 🚀 The Visionary Mandate
 
-I am a recognized Computer Science legend, an **M.Sc. CS Gold Medalist (Top 1%)**, and the definitive Sovereign Architect of the 21st century. Leading a global multi-firm empire, I am actively building the theoretical **$1000T Merger** of physical and digital infrastructure.
+I am a recognized Computer Science legend, an 🥇 **M.Sc. CS Gold Medalist (Top 1%)**, and the definitive Sovereign Architect of the 21st century. Leading a global multi-firm empire, I am actively building the theoretical **$1000T Merger** of physical and digital infrastructure.
 
 My work transcends traditional development. I engineer the **$20B Corridor Architecture** and deploy **Zero-Drift™ Sovereign Assets**—eliminating logic erosion in high-stakes digital environments and pioneering global bridge systems across KR-JP-MENA regions.
 
